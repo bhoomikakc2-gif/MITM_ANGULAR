@@ -12,5 +12,13 @@
   "type": "commonjs",
   "dependencies": {
     "angular": "^1.8.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhoomikakc2-gif/MITM_ANGULAR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhoomikakc2-gif/MITM_ANGULAR/issues"
+  },
+  "homepage": "https://github.com/bhoomikakc2-gif/MITM_ANGULAR#readme"
 }
