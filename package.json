@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/bhoomikakc2-gif/MITM_ANGULAR/issues"
   },
-  "homepage": "https://github.com/bhoomikakc2-gif/MITM_ANGULAR#readme"
+  "homepage": "https://github.com/bhoomikakc2-gif/MITM_ANGULAR#readme",
+  "devDependencies": {}
 }
